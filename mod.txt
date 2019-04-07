@@ -1,2 +1,37 @@
-Github
-Software enginnering
+1936- O matemático britânico Alan Turing (1912-1954), publica um artigo de referência sobre um dispositivo teórico que mais tarde veio se tornar a base para a criação dos computadores digitais modernos.
+
+
+1944- É criado o primeiro computador eletromecânico capaz de efetuar cálculos mais complexos sem a interferência
+humana. Uma evoução do primeiro computador mecânico de Hermann Hollerith. O Mark I como era chamado, mede 15 m x
+2,5 m e demora 11 segundos para executar um cálculo. 
+
+
+1947- Bell Telephone, Jonh Bardeen e Walter Houser Brattain criam o primeiro transistor do mundo com o objetivo
+de substituir as antigas válvulas termoiônicas usadas nos primeiros dispositivos eletrônicos. Os primeiros modelos
+de transistor não eram muito eficientes, e por isso em 1950 evoluiram para o transistor à junção, sendo por tanto
+mais resistentes e duráveis. A invenção do transistor tornou possível mais tarde a criação dos chips ou circuitos integrados.
+
+
+1958- Jack Kilby da Texas Instruments e Robert Noyce criam o primeiro circuito integrado do mundo e apresentam
+o funcionamento do mesmo em 12 de setembro do mesmo ano. A tecnologia dos circuitos integrados ou chips, tornou
+possível a criação de praticamente todos os equipamentos eletrônicos que conhecemos hoje, desde um simples relógio
+digital de pulso, até TV's, celulares, videogames, computadores, entre diversos outros.
+
+
+1961- O físico Joseph Carl Robnett Licklider cria a rede Arpanet, considerada como a pioneira no que hoje é conhecido como "computação em nuvem." Inicialmente o objetivo era unir as bases militares com os departamentos pesquisa do governo americano. Mas o conceito de computação em nuvem evoluiu e hoje é responsável pelo armaze-
+namento e compartilhamento de arquivos via internet no mundo inteiro. Entre os serviços disponíveis atualmente
+que uso dessa tecnologia, podemos destacar o Gdrive e o 4Shared, por exemplo.
+
+
+1974 - A Intel desenvolve o primeiro microprocessador 8080, que deu origem aos microcomputadores.
+
+
+1995- Randy Conrads cria a primeira rede social do mundo na web. O site classmates.com foi muito utilizado no Canadá e nos Estados Unidos e tinha como objetivo conectar amigos do colégio ou da faculdade.
+
+
+1998 -> A fundação do Google, uma gigante líder mundial no desenvolvimento de softwares e tecnologias que revolucionaram o início do século XX. Dentre essas podemos destacar o serviço de localização Google Maps,
+o motor de busca que leva o nome da empresa, o Google Search, o sistema operacional Android que mudou radicalmente
+o conceito dos smartphones, transformando-os em verdadeiros e poderosos computadores portáteis, além de muitos outros serviços como o Gmail, YouTube, Gdrive, etc.
+
+
+2000- Lançamento do Pentium 4. Chega a 500 milhões o número de computadores pessoais em todo o mundo.
